@@ -1,5 +1,12 @@
-# Что такое Git
+# Git
 
-Git система контроля версий (англ. Version Control System, или коротко VCS).
+[Консольный инструмент для Windows, Git Bash.](https://git-scm.com/download/win)
 
-Для обозначения систем контроля версий используют не только аббревиатуру VCS, но и SCM (от англ. Source Control Management — «система управления исходным кодом»).
+
+
+```bash
+pwd
+```
+```html
+<h1>pwd (от англ. print working directory — «показать рабочую папку»)</h1>
+```
