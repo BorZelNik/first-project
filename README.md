@@ -8,9 +8,11 @@
 Команды для работы с консолью
 
 ```bash
-pwd
+pwd   (от англ. print working directory — «показать рабочую папку»)
 ```
+
+
 ```html
-<h1> pwd (от англ. print working directory — «показать рабочую папку»)</h1>
+<h1> pwd </h1>
 ```
 
