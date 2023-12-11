@@ -1,6 +1,6 @@
 # Git
 
-[Консольный инструмент для Windows, Git Bash.](https://git-scm.com/download/win)
+[РљРѕРЅСЃРѕР»СЊРЅС‹Р№ РёРЅСЃС‚СЂСѓРјРµРЅС‚ РґР»СЏ Windows, Git Bash.](https://git-scm.com/download/win)
 
 
 
@@ -8,5 +8,6 @@
 pwd
 ```
 ```html
-<h1>pwd (от англ. print working directory — «показать рабочую папку»)</h1>
+<h1>pwd (РѕС‚ Р°РЅРіР». print working directory вЂ” В«РїРѕРєР°Р·Р°С‚СЊ СЂР°Р±РѕС‡СѓСЋ РїР°РїРєСѓВ»)</h1>
 ```
+
